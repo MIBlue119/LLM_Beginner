@@ -20,6 +20,7 @@
 
 - OpenAI-cookbook: https://github.com/openai/openai-cookbook
 - [OpenAI Tutotials: Website Q&amp;A Embeddings](https://platform.openai.com/docs/tutorials/web-qa-embeddings)
+- [Twilio: ultimate guide to OpenAI GPT3](https://www.twilio.com/blog/ultimate-guide-openai-gpt-3-language-model)
 
 ### Applications
 
