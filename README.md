@@ -39,3 +39,16 @@
 - [Openai-to-sqlite](https://github.com/simonw/openai-to-sqlite) : Save OpenAI API results to a SQLite database
   - [How to implement Q&amp;A against your documentation with GPT3, embeddings and Datasette](https://simonwillison.net/2023/Jan/13/semantic-search-answers/)
 - [Embetter](https://github.com/koaning/embetter) : a bunch of useful embeddings
+
+
+## OpenSource LLM
+
+### Finetuning
+- Standford_alpaca  https://github.com/tatsu-lab/stanford_alpaca: Aims to build and share an instruction-following LLaMA model.
+	- alpaca-lora https://github.com/tloen/alpaca-lora: Instruct-tuning LLaMA on consumer hardware
+	- Cabrita https://github.com/22-hours/cabrita: Finetuning InstructLLaMA with portuguese data
+	- Alpacoom https://huggingface.co/mrm8488/Alpacoom :  This adapter was created with the [PEFT](https://github.com/huggingface/peft) library and allowed the base model **BigScience/BLOOM 7B1** to be fine-tuned on the **Stanford's Alpaca Dataset** by using the method **LoRA**.
+
+### Optimization
+- llama.cpp https://github.com/ggerganov/llama.cpp : Port of Facebook's LLaMA model in C/C++
+- TextSynth Server https://bellard.org/ts_server/ : A web server proposing a REST API to large language models. They can be used for example for text completion, question answering, classification, chat, translation, image generation,
